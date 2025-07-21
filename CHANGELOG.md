@@ -16,3 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ESLint and Prettier set up  
 - Testing configured with Jest and React Testing Library  
 - GitHub repository initialized
+- Initial i18n setup with `next-intl`
+- Locale-based routing with `[locale]` dynamic segment
+- Language JSON files for English and Spanish
+- Middleware and routing configuration for locale detection
+- Locale-aware metadata and page layout
